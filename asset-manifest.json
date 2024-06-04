@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CanonEventApp/static/css/main.3824c6d1.css",
+    "main.js": "/CanonEventApp/static/js/main.af2ad031.js",
+    "static/js/453.4d4d3a83.chunk.js": "/CanonEventApp/static/js/453.4d4d3a83.chunk.js",
+    "index.html": "/CanonEventApp/index.html",
+    "main.3824c6d1.css.map": "/CanonEventApp/static/css/main.3824c6d1.css.map",
+    "main.af2ad031.js.map": "/CanonEventApp/static/js/main.af2ad031.js.map",
+    "453.4d4d3a83.chunk.js.map": "/CanonEventApp/static/js/453.4d4d3a83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3824c6d1.css",
+    "static/js/main.af2ad031.js"
+  ]
+}
